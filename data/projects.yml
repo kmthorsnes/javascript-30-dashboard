@@ -1,0 +1,4 @@
+- number: "1"
+  name: Drum kit
+  description: JavaScript which makes page animate and play sounds simulating a drum kit.
+  url: https://github.com/kmthorsnes/1-js-drum-kit
