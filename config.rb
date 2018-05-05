@@ -1,4 +1,10 @@
 activate :livereload
+
+activate :deploy do |deploy|
+  deploy.build_before = true
+  deploy.deploy_method = :git
+end
+
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
@@ -45,3 +51,10 @@ page '/*.txt', layout: false
 #   activate :minify_css
 #   activate :minify_javascript
 # end
+
+require 'extensions/build_cleaner'
+
+configure :build do
+  activate :relative_assets
+  activate :build_cleaner
+end
