@@ -1,4 +1,11 @@
 - number: "1"
   name: Drum kit
   description: JavaScript which makes page animate and play sounds simulating a drum kit.
-  url: https://github.com/kmthorsnes/1-js-drum-kit
+  url: https://kmthorsnes.github.io/1-js-drum-kit/
+  GithubUrl: https://github.com/kmthorsnes/1-js-drum-kit
+
+- number: "2"
+  name: CSS Clock
+  description: JavaScript which makes page transform CSS - animation a working clock.
+  url: https://kmthorsnes.github.io/2-js-clock-and-css/
+  GithubUrl: https://github.com/kmthorsnes/2-js-clock-and-css
