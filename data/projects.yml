@@ -9,3 +9,9 @@
   description: JavaScript which makes page transform CSS - animation a working clock.
   url: https://kmthorsnes.github.io/2-js-clock-and-css/
   GithubUrl: https://github.com/kmthorsnes/2-js-clock-and-css
+
+- number: "3"
+  name: Update CSS variables with JS
+  description: JavaScript which updates css variables with JS.
+  url: https://kmthorsnes.github.io/3-css-variables-and-js/
+  GithubUrl: https://github.com/kmthorsnes/3-css-variables-and-js
