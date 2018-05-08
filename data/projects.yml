@@ -15,3 +15,9 @@
   description: JavaScript which updates css variables with JS.
   url: https://kmthorsnes.github.io/3-css-variables-and-js/
   GithubUrl: https://github.com/kmthorsnes/3-css-variables-and-js
+
+- number: "4"
+  name: JS exercises
+  description: JavaScript exercises with arrays.
+  url: https://kmthorsnes.github.io/4-array-cardio/
+  GithubUrl:
