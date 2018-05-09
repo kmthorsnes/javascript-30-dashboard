@@ -21,3 +21,9 @@
   description: JavaScript exercises with arrays.
   url: https://kmthorsnes.github.io/4-array-cardio/
   GithubUrl:
+
+- number: "5"
+  name: Flex panels
+  description: CSS and JS Exercises. Transition challenge - make text show and hide using event listener.
+  url: https://kmthorsnes.github.io/5-flex-panels-image-gallery/
+  GithubUrl: https://kmthorsnes.github.io/5-flex-panels-image-gallery/
