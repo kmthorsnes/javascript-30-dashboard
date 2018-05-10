@@ -27,3 +27,9 @@
   description: CSS and JS Exercises. Transition challenge - make text show and hide using event listener.
   url: https://kmthorsnes.github.io/5-flex-panels-image-gallery/
   GithubUrl: https://kmthorsnes.github.io/5-flex-panels-image-gallery/
+
+- number: "6"
+  name: Ajax type ahead
+  description: CHighlights text from large array based on regex match.
+  url: https://kmthorsnes.github.io/6-ajax-type-ahead/
+  GithubUrl: https://kmthorsnes.github.io/6-ajax-type-ahead/
