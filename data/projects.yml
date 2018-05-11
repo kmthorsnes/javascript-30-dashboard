@@ -17,7 +17,7 @@
   GithubUrl: https://github.com/kmthorsnes/3-css-variables-and-js
 
 - number: "4"
-  name: JS exercises
+  name: Array cardio
   description: JavaScript exercises with arrays.
   url: https://kmthorsnes.github.io/4-array-cardio/
   GithubUrl:
@@ -30,6 +30,12 @@
 
 - number: "6"
   name: Ajax type ahead
-  description: CHighlights text from large array based on regex match.
+  description: Highlights text from large array based on regex match.
   url: https://kmthorsnes.github.io/6-ajax-type-ahead/
-  GithubUrl: https://kmthorsnes.github.io/6-ajax-type-ahead/
+  GithubUrl: https://kmthorsnes.github.io/6-ajax-type-ahead /
+
+- number: "7"
+  name: Array cardio 2
+  description: Second run of array cardio with JS functions.
+  url: https://kmthorsnes.github.io/7-array-cardio-2/
+  GithubUrl:
