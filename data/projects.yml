@@ -32,10 +32,16 @@
   name: Ajax type ahead
   description: Highlights text from large array based on regex match.
   url: https://kmthorsnes.github.io/6-ajax-type-ahead/
-  GithubUrl: https://kmthorsnes.github.io/6-ajax-type-ahead /
+  GithubUrl: https://kmthorsnes.github.io/6-ajax-type-ahead/
 
 - number: "7"
   name: Array cardio 2
   description: Second run of array cardio with JS functions.
   url: https://kmthorsnes.github.io/7-array-cardio-2/
   GithubUrl:
+
+- number: "8"
+  name: Fun with html canvas
+  description: Creating a simple rainbow drawing board with JS and hsl.
+  url: https://kmthorsnes.github.io/8-fun-with-html5-canvas/
+  GithubUrl: https://kmthorsnes.github.io/8-fun-with-html5-canvas/
