@@ -45,3 +45,9 @@
   description: Creating a simple rainbow drawing board with JS and hsl.
   url: https://kmthorsnes.github.io/8-fun-with-html5-canvas/
   GithubUrl: https://kmthorsnes.github.io/8-fun-with-html5-canvas/
+
+- number: "9"
+  name: 14 must know dev tools tricks
+  description: Tutorial on tricks for console - JS commands. 
+  url: https://kmthorsnes.github.io/9-fourteen-must-know-tricks/
+  GithubUrl:
