@@ -51,3 +51,9 @@
   description: Tutorial on tricks for console - JS commands. 
   url: https://kmthorsnes.github.io/9-fourteen-must-know-tricks/
   GithubUrl:
+
+  - number: "10"
+  name: Hold shift to select several checkboxes
+  description: JavaScript which makes several checkboxes being selected if holding shift down while selecting
+  url: https://kmthorsnes.github.io/10-hold-shift-to-check-multiple-checkboxes/
+  GithubUrl: https://kmthorsnes.github.io/10-hold-shift-to-check-multiple-checkboxes/
