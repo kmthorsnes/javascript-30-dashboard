@@ -57,3 +57,9 @@
   description: JavaScript which makes several checkboxes being selected if holding shift down while selecting
   url: https://kmthorsnes.github.io/10-hold-shift-to-check-multiple-checkboxes/
   GithubUrl: https://kmthorsnes.github.io/10-hold-shift-to-check-multiple-checkboxes/
+
+  - number: "11"
+  name: HTML5 custom video playuer
+  description: JavaScript which controlls several aspects of a built in html5 video player
+  url: https://kmthorsnes.github.io/11-custom-html5-video-player/
+  GithubUrl: https://kmthorsnes.github.io/11-custom-html5-video-player/
