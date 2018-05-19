@@ -48,17 +48,17 @@
 
 - number: "9"
   name: 14 must know dev tools tricks
-  description: Tutorial on tricks for console - JS commands. 
+  description: Tutorial on tricks for console - JS commands.
   url: https://kmthorsnes.github.io/9-fourteen-must-know-tricks/
   GithubUrl:
 
-  - number: "10"
+- number: "10"
   name: Hold shift to select several checkboxes
   description: JavaScript which makes several checkboxes being selected if holding shift down while selecting
   url: https://kmthorsnes.github.io/10-hold-shift-to-check-multiple-checkboxes/
   GithubUrl: https://kmthorsnes.github.io/10-hold-shift-to-check-multiple-checkboxes/
 
-  - number: "11"
+- number: "11"
   name: HTML5 custom video playuer
   description: JavaScript which controlls several aspects of a built in html5 video player
   url: https://kmthorsnes.github.io/11-custom-html5-video-player/
