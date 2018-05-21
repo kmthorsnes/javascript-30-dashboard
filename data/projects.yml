@@ -63,3 +63,9 @@
   description: JavaScript which controlls several aspects of a built in html5 video player
   url: https://kmthorsnes.github.io/11-custom-html5-video-player/
   GithubUrl: https://kmthorsnes.github.io/11-custom-html5-video-player/
+
+- number: "12"
+  name: Key stroke detector
+  description: JavaScript which logs keystrokes and gives "gift" when the secret keyword is entered
+  url: https://kmthorsnes.github.io/12-key-sequence-detection/
+  GithubUrl: https://kmthorsnes.github.io/12-key-sequence-detection/
