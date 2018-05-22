@@ -69,3 +69,9 @@
   description: JavaScript which logs keystrokes and gives "gift" when the secret keyword is entered
   url: https://kmthorsnes.github.io/12-key-sequence-detection/
   GithubUrl: https://kmthorsnes.github.io/12-key-sequence-detection/
+
+- number: "13"
+  name: Slide in on scroll
+  description: JavaScript which makes images slide in while you scroll down the page.
+  url: https://kmthorsnes.github.io/13-slide-in-on-scroll/
+  GithubUrl: https://kmthorsnes.github.io/13-slide-in-on-scroll/
