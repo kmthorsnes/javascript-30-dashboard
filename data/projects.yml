@@ -75,3 +75,9 @@
   description: JavaScript which makes images slide in while you scroll down the page.
   url: https://kmthorsnes.github.io/13-slide-in-on-scroll/
   GithubUrl: https://kmthorsnes.github.io/13-slide-in-on-scroll/
+
+- number: "14"
+  name: JS reference vs copy
+  description: Exercices which shows different strategies for referencing and copying in JS.
+  url: https://kmthorsnes.github.io/14-object-and-arrays-reference-vs-copy/
+  GithubUrl: 
