@@ -81,3 +81,9 @@
   description: Exercices which shows different strategies for referencing and copying in JS.
   url: https://kmthorsnes.github.io/14-object-and-arrays-reference-vs-copy/
   GithubUrl: 
+
+- number: "15"
+  name: LocalStorage and event delegation
+  description: Exercices which introduces local storage for keeping selection when page is exited and re-entered or reloaded.
+  url: https://kmthorsnes.github.io/15-localstorage-and-event-delegation/
+  GithubUrl: https://kmthorsnes.github.io/15-localstorage-and-event-delegation/
