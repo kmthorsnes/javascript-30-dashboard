@@ -87,3 +87,9 @@
   description: Exercices which introduces local storage for keeping selection when page is exited and re-entered or reloaded.
   url: https://kmthorsnes.github.io/15-localstorage-and-event-delegation/
   GithubUrl: https://kmthorsnes.github.io/15-localstorage-and-event-delegation/
+
+- number: "16"
+  name: CSS text shadow on mouse move
+  description: Using JS and CSS to create a shadow illusion of text which reacts in order to mouse moving.
+  url: https://kmthorsnes.github.io/16-css-text-shadow-mouse-move-effect/
+  GithubUrl: https://kmthorsnes.github.io/16-css-text-shadow-mouse-move-effect/
