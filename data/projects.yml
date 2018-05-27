@@ -93,3 +93,9 @@
   description: Using JS and CSS to create a shadow illusion of text which reacts in order to mouse moving.
   url: https://kmthorsnes.github.io/16-css-text-shadow-mouse-move-effect/
   GithubUrl: https://kmthorsnes.github.io/16-css-text-shadow-mouse-move-effect/
+
+- number: "17"
+  name: Sorting band names without articles
+  description: Using JS to remove articles from band names.
+  url: https://kmthorsnes.github.io/17-sorting-band-names-without-articles/
+  GithubUrl: https://kmthorsnes.github.io/17-sorting-band-names-without-articles/
