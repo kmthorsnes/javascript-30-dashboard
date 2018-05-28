@@ -99,3 +99,9 @@
   description: Using JS to remove articles from band names.
   url: https://kmthorsnes.github.io/17-sorting-band-names-without-articles/
   GithubUrl: https://kmthorsnes.github.io/17-sorting-band-names-without-articles/
+
+- number: "18"
+  name: Tally String times with reduce
+  description: Using JS to for adding video playtime into a total of hours minutes and seconds.
+  url: https://kmthorsnes.github.io/18-tally-string-times-with-reduce/
+  GithubUrl: 
