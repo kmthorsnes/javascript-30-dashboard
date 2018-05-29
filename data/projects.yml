@@ -26,25 +26,25 @@
   name: Flex panels
   description: CSS and JS Exercises. Transition challenge - make text show and hide using event listener.
   url: https://kmthorsnes.github.io/5-flex-panels-image-gallery/
-  GithubUrl: https://kmthorsnes.github.io/5-flex-panels-image-gallery/
+  GithubUrl: https://github.com/kmthorsnes/5-flex-panels-image-gallery/
 
 - number: "6"
   name: Ajax type ahead
   description: Highlights text from large array based on regex match.
   url: https://kmthorsnes.github.io/6-ajax-type-ahead/
-  GithubUrl: https://kmthorsnes.github.io/6-ajax-type-ahead/
+  GithubUrl: https://github.com/kmthorsnes/6-ajax-type-ahead/
 
 - number: "7"
   name: Array cardio 2
   description: Second run of array cardio with JS functions.
-  url: https://kmthorsnes.github.io/7-array-cardio-2/
+  url: https://github.com/kmthorsnes/7-array-cardio-2/
   GithubUrl:
 
 - number: "8"
   name: Fun with html canvas
   description: Creating a simple rainbow drawing board with JS and hsl.
   url: https://kmthorsnes.github.io/8-fun-with-html5-canvas/
-  GithubUrl: https://kmthorsnes.github.io/8-fun-with-html5-canvas/
+  GithubUrl: https://github.com/kmthorsnes/8-fun-with-html5-canvas/
 
 - number: "9"
   name: 14 must know dev tools tricks
@@ -56,49 +56,49 @@
   name: Hold shift to select several checkboxes
   description: JavaScript which makes several checkboxes being selected if holding shift down while selecting
   url: https://kmthorsnes.github.io/10-hold-shift-to-check-multiple-checkboxes/
-  GithubUrl: https://kmthorsnes.github.io/10-hold-shift-to-check-multiple-checkboxes/
+  GithubUrl: https://github.com/kmthorsnes/10-hold-shift-to-check-multiple-checkboxes/
 
 - number: "11"
   name: HTML5 custom video playuer
   description: JavaScript which controlls several aspects of a built in html5 video player
   url: https://kmthorsnes.github.io/11-custom-html5-video-player/
-  GithubUrl: https://kmthorsnes.github.io/11-custom-html5-video-player/
+  GithubUrl: https://github.com/kmthorsnes/11-custom-html5-video-player/
 
 - number: "12"
   name: Key stroke detector
   description: JavaScript which logs keystrokes and gives "gift" when the secret keyword is entered
   url: https://kmthorsnes.github.io/12-key-sequence-detection/
-  GithubUrl: https://kmthorsnes.github.io/12-key-sequence-detection/
+  GithubUrl: https://github.com/kmthorsnes/12-key-sequence-detection/
 
 - number: "13"
   name: Slide in on scroll
   description: JavaScript which makes images slide in while you scroll down the page.
   url: https://kmthorsnes.github.io/13-slide-in-on-scroll/
-  GithubUrl: https://kmthorsnes.github.io/13-slide-in-on-scroll/
+  GithubUrl: https://github.com/kmthorsnes/13-slide-in-on-scroll/
 
 - number: "14"
   name: JS reference vs copy
   description: Exercices which shows different strategies for referencing and copying in JS.
-  url: https://kmthorsnes.github.io/14-object-and-arrays-reference-vs-copy/
+  url: https://github.com/kmthorsnes/14-object-and-arrays-reference-vs-copy/
   GithubUrl: 
 
 - number: "15"
   name: LocalStorage and event delegation
   description: Exercices which introduces local storage for keeping selection when page is exited and re-entered or reloaded.
   url: https://kmthorsnes.github.io/15-localstorage-and-event-delegation/
-  GithubUrl: https://kmthorsnes.github.io/15-localstorage-and-event-delegation/
+  GithubUrl: https://github.com/kmthorsnes/15-localstorage-and-event-delegation/
 
 - number: "16"
   name: CSS text shadow on mouse move
   description: Using JS and CSS to create a shadow illusion of text which reacts in order to mouse moving.
   url: https://kmthorsnes.github.io/16-css-text-shadow-mouse-move-effect/
-  GithubUrl: https://kmthorsnes.github.io/16-css-text-shadow-mouse-move-effect/
+  GithubUrl: https://github.com/kmthorsnes/16-css-text-shadow-mouse-move-effect/
 
 - number: "17"
   name: Sorting band names without articles
   description: Using JS to remove articles from band names.
   url: https://kmthorsnes.github.io/17-sorting-band-names-without-articles/
-  GithubUrl: https://kmthorsnes.github.io/17-sorting-band-names-without-articles/
+  GithubUrl: https://github.com/kmthorsnes/17-sorting-band-names-without-articles/
 
 - number: "18"
   name: Tally String times with reduce
@@ -110,4 +110,4 @@
   name: Webcam fun / Photo booth 
   description: Using JS to access web camera for snaping photos and create color effects
   url: https://kmthorsnes.github.io/19-unreal-webcam-fun/
-  GithubUrl: https://kmthorsnes.github.io/19-unreal-webcam-fun/
+  GithubUrl: https://github.com/kmthorsnes/19-unreal-webcam-fun/
