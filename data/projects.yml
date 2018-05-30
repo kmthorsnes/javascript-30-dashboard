@@ -111,3 +111,9 @@
   description: Using JS to access web camera for snaping photos and create color effects
   url: https://kmthorsnes.github.io/19-unreal-webcam-fun/
   GithubUrl: https://github.com/kmthorsnes/19-unreal-webcam-fun/
+
+- number: "20"
+  name: Speech recognition 
+  description:  Using JS to access microphone and transcripting speech into paragraphs.
+  url: https://kmthorsnes.github.io/20-native-speech-recognition/
+  GithubUrl: https://github.com/kmthorsnes/20-native-speech-recognition/
