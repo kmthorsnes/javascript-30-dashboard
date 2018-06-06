@@ -123,3 +123,9 @@
   description:  Using JS, Xcode and safari to simulate devise geolocation and speed - and accessing them in browser.
   url: 
   GithubUrl: https://github.com/kmthorsnes/21-geolocation-based-speedometer-and-compass/
+
+- number: "23"
+  name: Follow along links
+  description: Using JS to make CSS transition follow the mouse and links..
+  url: https://kmthorsnes.github.io/22-follow-along-links/
+  GithubUrl: https://github.com/kmthorsnes/22-follow-along-links/
