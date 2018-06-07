@@ -124,8 +124,14 @@
   url: 
   GithubUrl: https://github.com/kmthorsnes/21-geolocation-based-speedometer-and-compass/
 
-- number: "23"
+- number: "22"
   name: Follow along links
-  description: Using JS to make CSS transition follow the mouse and links..
+  description: Using JS to make CSS transition follow the mouse and links.
   url: https://kmthorsnes.github.io/22-follow-along-links/
   GithubUrl: https://github.com/kmthorsnes/22-follow-along-links/
+
+- number: "23"
+  name: Speech synthesis
+  description: Using JS make use of text-to-speech-functionality with rate and pitch selector.
+  url: https://kmthorsnes.github.io/23-speech-synthesis/
+  GithubUrl: https://github.com/kmthorsnes/23-speech-synthesis/
