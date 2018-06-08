@@ -135,3 +135,9 @@
   description: Using JS make use of text-to-speech-functionality with rate and pitch selector.
   url: https://kmthorsnes.github.io/23-speech-synthesis/
   GithubUrl: https://github.com/kmthorsnes/23-speech-synthesis/
+
+- number: "24"
+  name: Sticky navbar
+  description: Using JS and CSS to have navbar stick on scroll and logo appear/disappear.
+  url: https://kmthorsnes.github.io/24-sticky-nav/
+  GithubUrl: https://github.com/kmthorsnes/24-sticky-nav/
