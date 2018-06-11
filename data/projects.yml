@@ -141,3 +141,9 @@
   description: Using JS and CSS to have navbar stick on scroll and logo appear/disappear.
   url: https://kmthorsnes.github.io/24-sticky-nav/
   GithubUrl: https://github.com/kmthorsnes/24-sticky-nav/
+
+- number: "25"
+  name: Event capture, propagation, bubbling and once
+  description: Using JS to learn the concepts of event capture, propagation, bubbling and once.
+  url: 
+  GithubUrl: https://github.com/kmthorsnes/25-event-capture-propagation-bubbling-and-once/
