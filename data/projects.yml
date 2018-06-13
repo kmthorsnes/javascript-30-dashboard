@@ -147,3 +147,9 @@
   description: Using JS to learn the concepts of event capture, propagation, bubbling and once.
   url: 
   GithubUrl: https://github.com/kmthorsnes/25-event-capture-propagation-bubbling-and-once/
+
+- number: "26"
+  name: Stripe follow along dropdown
+  description: Using JS and CSS to have background of dropdown menu to change.
+  url: https://kmthorsnes.github.io/26-stripe-follow-along-dropdown/
+  GithubUrl: https://github.com/kmthorsnes/26-stripe-follow-along-dropdown/
