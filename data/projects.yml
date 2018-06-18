@@ -153,3 +153,9 @@
   description: Using JS and CSS to have background of dropdown menu to change.
   url: https://kmthorsnes.github.io/26-stripe-follow-along-dropdown/
   GithubUrl: https://github.com/kmthorsnes/26-stripe-follow-along-dropdown/
+
+- number: "27"
+  name: Click and drag to scroll
+  description: Using JS and CSS to create horizontal slide effect when mouse is hold and drag.
+  url: https://kmthorsnes.github.io/27-click-and-drag-to-scroll/
+  GithubUrl: https://github.com/kmthorsnes/27-click-and-drag-to-scroll/
