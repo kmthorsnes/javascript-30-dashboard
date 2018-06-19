@@ -163,5 +163,5 @@
 - number: "28"
   name: Video speed controller UI
   description: Using JS and CSS to create horizontal slide effect when mouse is hold and drag.
-  url: https://kmthorsnes.github.io/27-click-and-drag-to-scroll/
-  GithubUrl: https://github.com/kmthorsnes/27-click-and-drag-to-scroll/
+  url: https://kmthorsnes.github.io/28-video-speed-controller/
+  GithubUrl: https://github.com/kmthorsnes/28-video-speed-controller/
