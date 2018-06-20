@@ -162,6 +162,12 @@
 
 - number: "28"
   name: Video speed controller UI
-  description: Using JS and CSS to create horizontal slide effect when mouse is hold and drag.
+  description: Using JS and CSS create video speed controller which interact with mouseover.
+  url: https://kmthorsnes.github.io/28-video-speed-controller/
+  GithubUrl: https://github.com/kmthorsnes/28-video-speed-controller/
+
+- number: "29"
+  name: Countdown clock
+  description: Using JS to create a countdown timer.
   url: https://kmthorsnes.github.io/28-video-speed-controller/
   GithubUrl: https://github.com/kmthorsnes/28-video-speed-controller/
