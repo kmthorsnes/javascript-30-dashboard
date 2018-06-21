@@ -169,5 +169,11 @@
 - number: "29"
   name: Countdown clock
   description: Using JS to create a countdown timer.
-  url: https://kmthorsnes.github.io/28-video-speed-controller/
-  GithubUrl: https://github.com/kmthorsnes/28-video-speed-controller/
+  url: https://kmthorsnes.github.io/29-countdown-clock/
+  GithubUrl: https://github.com/kmthorsnes/29-countdown-clock/
+
+- number: "30"
+  name: Whack-a-mole game
+  description: Using JS to create a whack-a-mole game (Bank-en-Kalle).
+  url: https://kmthorsnes.github.io/30-whack-a-mole-game/
+  GithubUrl: https://github.com/kmthorsnes/30-whack-a-mole-game/
