@@ -1,0 +1,16 @@
+body {
+  background: -webkit-gradient(linear, left top, right top, from(#DBE6F6), to(#C5796D));
+  background: linear-gradient(90deg, #DBE6F6, #C5796D);
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  padding: 18vh 1rem;
+  text-align: center; }
+
+a {
+  color: rgba(0, 0, 0, 0.7); }
+  a:focus, a:hover {
+    color: rgba(0, 0, 0, 0.6); }
+
+.middleman-logo {
+  margin-bottom: 1rem;
+  width: 10rem; }
